@@ -29,7 +29,7 @@ df['Total HVAC Power (MW)'] = (
 )
 
 # Initialize the Dash app
-app = dash.Dash(__name__)
+app = dash.Dash(__name__, title='Vessel Performance Trend')
 
 # Layout of the dashboard
 app.layout = html.Div([
