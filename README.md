@@ -10,7 +10,6 @@ This repository contains data and scripts for analyzing cruise ship performance 
 - [Notebooks](#notebooks)
 - [Scripts](#scripts)
 - [How to Run](#how-to-run)
-- [License](#license)
 
 ## Project Structure
 
